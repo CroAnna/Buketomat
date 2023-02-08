@@ -1,7 +1,5 @@
 # Buketomat
 
-Cijeli projekt sa svim committovima, branchevima, merganjem itd. dostupan je <a href="https://github.com/foivz/rampu22-askarica20-mfriscic20-fmilohano20">ovdje</a>
-
 <a href="https://youtu.be/3nmdqTU8G0w">Video koji prikazuje sve funkcionalnosti aplikacije</a>
 
 ## Projektni tim
